@@ -1,3 +1,4 @@
+#unfinished
 from transformation import *
 try:
     list = ['A)', 'Б)', 'B)', 'Г)', 'Д)', 'Е)']
@@ -25,6 +26,6 @@ try:
     x*=x
     x*=permx
     x1 = x
-    
+
 except ValueError:
     print('Not a number!')
